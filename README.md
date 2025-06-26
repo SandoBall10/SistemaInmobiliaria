@@ -1,5 +1,9 @@
 # 🏠 Sistema de Gestión Inmobiliaria
 
+Proyecto desarrollado por **Adrian Sandoval Ballona**
+
+## 📋 Descripción
+
 Este proyecto es una aplicación Java diseñada para gestionar operaciones inmobiliarias. Ayuda a los agentes y empresas inmobiliarias a optimizar 
 sus procesos y gestionar eficientemente propiedades, clientes, ventas y pagos.
 
@@ -60,12 +64,6 @@ Para ejecutar este proyecto, necesitarás:
     - Haz clic derecho en `Main.java` y selecciona `Ejecutar Archivo`.
 
 Esto debería iniciar la aplicación, comenzando con la ventana de inicio de sesión.
-
-## 🧑‍💻 Desarrollado por Andersson Jaren Flores Ruiz
-
-**Universidad:** Universidad Tecnológica del Perú
-**Curso:** Diseño de Patrones
-**Año:** 2024
 
 ## 📂 Estructura del Código Fuente (`src`)
 
