@@ -118,3 +118,14 @@ El código fuente del proyecto está organizado en los siguientes paquetes princ
 - **`Imagenes`**: Contiene las imágenes utilizadas en la interfaz de usuario.
 
 Esta estructura ayuda a mantener el código organizado, modular y facilita su mantenimiento y escalabilidad.
+
+🤝 Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, puedes hacer un fork y crear un Pull Request con tus cambios.
+
+📧 Contacto
+```
+Adrian Sandoval Ballona
+Correo: [sandovalballona@gmail.com]
+GitHub: github.com/AdrianSB
+```
+
