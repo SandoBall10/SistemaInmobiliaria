@@ -126,6 +126,6 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, puedes hacer 
 ```
 Adrian Sandoval Ballona
 Correo: [sandovalballona@gmail.com]
-GitHub: github.com/AdrianSB
+GitHub: github.com/SandoBall10
 ```
 
